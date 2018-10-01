@@ -3,6 +3,8 @@
     "netlist": "网表",
     "designer": "设计人员",
     "synthesize": "综合",
-    
+    "HDL": "硬件描述语言",
+    "description": ["描述"],
+
 
 }
