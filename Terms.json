@@ -3,9 +3,10 @@
     "netlist": "网表",
     "designer": "设计人员",
     "synthesize": "综合",
-    "HDL": "硬件描述语言",
     "description": ["描述"],
-    "Design Compiler": "逻辑综合"
+    "Design Compiler": "设计编译器",
+    "active high": "高电平有效",
+    "active low": "低电平有效"
 
 
 
