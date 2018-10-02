@@ -1,6 +1,5 @@
 # TermsOfRTL
-> json格式"English Term": "汉语"
-json使用半角符号
+> json格式` "English Term": "汉语", ` json使用半角符号
 
 >Terms.json 常见术语
 
