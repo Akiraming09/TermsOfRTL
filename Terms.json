@@ -6,7 +6,11 @@
     "description": ["描述"],
     "Design Compiler": "设计编译器",
     "active high": "高电平有效",
-    "active low": "低电平有效"
+    "active low": "低电平有效",
+    "specification": ["技术指标","规范"],
+    "place": "布局",
+    "place & route": "布局布线",
+    "routing": "布线"
 
 
 
