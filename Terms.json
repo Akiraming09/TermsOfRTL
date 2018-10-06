@@ -10,7 +10,8 @@
     "specification": ["技术指标","规范"],
     "place": "布局",
     "place & route": "布局布线",
-    "routing": "布线"
+    "routing": "布线",
+    "sequential logic": "时序逻辑"
 
 
 
