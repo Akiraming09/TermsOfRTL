@@ -11,7 +11,9 @@
     "place": "布局",
     "place & route": "布局布线",
     "routing": "布线",
-    "sequential logic": "时序逻辑"
+    "sequential logic": "时序逻辑",
+    "element": "元件",
+    "sum-of-products": "积之和"
 
 
 
