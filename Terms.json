@@ -13,7 +13,11 @@
     "routing": "布线",
     "sequential logic": "时序逻辑",
     "element": "元件",
-    "sum-of-products": "积之和"
+    "sum-of-products": "积之和",
+    "plug-n-play": "即插即用",
+    "wire load": "线负载",
+    "technology": "工艺",
+    "floorplanning": "布图规划"
 
 
 
