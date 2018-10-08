@@ -17,7 +17,8 @@
     "plug-n-play": "即插即用",
     "wire load": "线负载",
     "technology": "工艺",
-    "floorplanning": "布图规划"
+    "floorplanning": "布图规划",
+    "common sub-expr": "共有子表达式"
 
 
 
